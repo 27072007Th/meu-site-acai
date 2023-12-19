@@ -1,0 +1,114 @@
+body {
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header-background {
+    background-image: url('barca acai.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 250px;
+    text-align: center;
+}
+
+.header-overlay {
+    background-color:rgba(0, 0, 0, 0.5);
+    color: purple;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#our-products-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#our-products-section h2 {
+    color: purple;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.product-images {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product-images img {
+    width: 500px; /* Ajuste o tamanho conforme necessário */
+    margin: 0 10px;
+}
+
+.cup-image {
+    width: 100px; /* Mantenha o tamanho dos copos maior */
+    margin-right: 10px;
+}
+
+footer {
+    background-color: transparent;
+    color: blue;
+    text-align: right;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 98%;
+    font-size: 18px;
+}
+/* Adicione estas linhas no seu arquivo CSS (styles.css) */
+.fruit-image {
+    width: 70px; /* Ajuste o tamanho conforme necessário */
+    margin-right: 20px;
+}
+header h1 {
+    color: rebeccapurple; /* Cor roxa */
+    font-size: 7em; /* Tamanho da fonte (ajuste conforme necessário) */
+}
+
+.instagram-link {
+    color: red; /* Cor padrão do link */
+    text-decoration: none; /* Remover sublinhado padrão dos links */
+}
+
+.instagram-link:hover {
+    color: black; /* Cor quando o mouse está sobre o link */
+}
+/* Adicione essas regras no seu arquivo styles.css */
+
+.complement-image {
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: 50px; /* Ajuste o tamanho conforme necessário */
+    margin-right: 15px; /* Espaçamento entre a imagem e o texto */
+}
+
+.cup-options-text {
+    color:rebeccapurple; 
+}
+#image-container img {
+    max-width: 100%;
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove espaços extras abaixo da imagem */
+}
+.menu-frutas {
+    color: rebeccapurple; /* Substitua #ff0000 pela cor desejada (código de cor ou nome) */
+}
+#animation-section h2 {
+    color: rebeccapurple; /* Substitua #ff0000 pela cor desejada (código de cor ou nome) */
+}
+aside h2 {
+    color: rebeccapurple; /* Substitua #00ff00 pela cor desejada (código de cor ou nome) */
+}
+
+
+
+
+
+
